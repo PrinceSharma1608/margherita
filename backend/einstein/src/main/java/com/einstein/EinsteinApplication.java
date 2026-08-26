@@ -9,5 +9,7 @@ public class EinsteinApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EinsteinApplication.class, args);
 	}
+	// this is a test msg to check git repos
+
 
 }
